@@ -1,9 +1,3 @@
-![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
-
-<h3 align="center">Open Source Society University</h3>
-<p align="center">
-  Path to a free self-taught education in Computer Science!
-</p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -42,6 +36,7 @@ Learn Computer Science with a clear curriculum of curated materials.
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
+  - [Core systems](#core-systems) **important**
 - [Advanced CS](#advanced-cs)
 - [Final project](#final-project)
 
@@ -76,7 +71,7 @@ This course will introduce you to the world of computer science. Students who ha
 `computation`
 `imperative programming`
 `basic data structures and algorithms`
-`and more`
+`etc`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -98,7 +93,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `dynamic typing`
 `ML-family languages (via Standard ML)`
 `Lisp-family languages (via Racket)`
-`and more`
+`etc`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -120,14 +115,14 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `basic statistics`
 `O-notation`
 `discrete probability`
-`and more`
+`more math`
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Calculus I](test) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus II](test2) | 13 weeks | 5-10 hours/week | - | Calculus II | [chat](https://discord.gg/sddAsZg)
 [Calculus III](test3) | 6 weeks | 5-10 hours/week | - | Calculus III | [chat](https://discord.gg/FNEcNNq)
-[Mathematics for Computer Science](add in a CS math book/course here) | 13 weeks | 5 hours/week
+[Mathematics for Computer Science](addinaCSorMathcoursehere) | 13 weeks | 5 hours/week
 
 
 ### CS Tools
@@ -135,10 +130,9 @@ Practice over theory.
 
 **Topics covered**:
 `terminals and shell scripting`
-`vim`
-`command line environments`
+`cli environments`
 `version control`
-`and more`
+`yeah`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -160,7 +154,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `compilers`
 `operating systems`
 `network protocols`
-`and more`
+`**this it**`
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -221,15 +215,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `REST`
 `software specifications`
 `refactoring`
-`relational databases`
-`transaction processing`
 `data modeling`
 `neural networks`
 `supervised learning`
 `unsupervised learning`
 `OpenGL`
 `ray tracing`
-`and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -244,7 +235,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 **Topics covered**:
 `Social Context`
-`Analytical Tools`
 `Professional Ethics`
 `Intellectual Property`
 `Privacy and Civil Liberties`
@@ -277,10 +267,8 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming
 [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none
-[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | -
 [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | -
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
 
 (*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
@@ -323,7 +311,6 @@ Courses | Duration | Effort | Prerequisites | Notes
 `relational logic`
 `Herbrand logic`
 `game trees`
-`and more`
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
