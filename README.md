@@ -73,7 +73,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Python Programming Primer](https://github.com/HimoriK/computer-science/files/12163718/Python.Programming.Primer-4.pdf) or [The Coder's Apprentice Learning Programming with Python 3](https://www.spronck.net/pythonbook/pythonbook.pdf)
+[Python Programming Primer](https://github.com/HimoriK/computer-science/files/12163718/Python.Programming.Primer-4.pdf) or [The Coder's Apprentice](https://www.spronck.net/pythonbook/pythonbook.pdf)
 
 ## Core CS
 
