@@ -20,8 +20,8 @@
 Learn Computer Science with a clear curriculum of curated materials.
 I want to make one thing clear: There is no easy way to learn about this stuff, there are quick ways, yes. Not easy ways though.
 The quickest way, is to not waste your time with pointless mediocre courses when you could instead pick up a free book and teach yourself.
-That's 1 big book, or 3 specialized smaller books. To prove my point, before you consider going on edX or Coursera, search for a popular [programming language 
-here](https://www.classcentral.com) and reviews for the courses you're interested in. Reviews imply Coursera > edX, but the curriculum of online schooling is limited, and even the best universities in the world have educational issues, your best bet is to pick your favorite books and learn by practice. MIT content is also outdated. Videos are okay, but attention drifts, while practice lingers. Don't have your education outsourced or based on old content. Get a proper book written in your language with (preferably) your teaching style, with no fluff. Otherwise pay for a modern course.
+That's 1 big book, or 3 specialized smaller books. To prove my point, before you consider going on Coursera, search for a popular [programming language 
+here](https://www.classcentral.com) and reviews for the courses you're interested in. Reviews imply Coursera > edX, but the curriculum of online schooling is limited, and even the best universities in the world have educational issues, your best bet is to pick your favorite books and learn by practice. MIT content is also outdated. Videos are okay, but attention drifts, while practice lingers. Don't outsource your education or base on old content. Get a proper book written in your language with (preferably) your style and no fluff. Otherwise pay for a good degree program.
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
@@ -84,9 +84,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `functional programming`
 `unit testing`
 `object-oriented design`
-`static typing`
-`dynamic typing`
-`ML-family languages (via Standard ML)`
+`static & dynamic types`
 `etc`
 
 Courses | Duration | Effort | Prerequisites | Discussion
