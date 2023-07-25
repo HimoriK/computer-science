@@ -92,7 +92,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 Learn a bit of Python, but focus on learning C as it's concepts can be applied to other languages and most OS are based on it, including Windows and Linux. When you look into the inter-workings of a program, you will see either C or assembly. Newer languages are basically fancy C with new implementations. However it's good to know a bunch so you aren't stuck to one language's features or limited codebase.
 ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/) 
 [Computer Science I](https://github.com/HimoriK/computer-science/files/12163849/ComputerScienceOne.pdf)
-[Algorithms](findavideo,onProgramLanguageDifferences) and [Course](https://codeahoy.com/learn/analysisofalgorithms/ch1/) [optional](https://en.wikibooks.org/wiki/Algorithms)
+[Algorithms](findavideo,onProgramLanguageDifferences) and [Course](https://codeahoy.com/learn/analysisofalgorithms/ch1/) *[Optional](https://en.wikibooks.org/wiki/Algorithms)
 [Data Structures](https://opendatastructures.org/ods-python.pdf) and [Course](https://codeahoy.com/learn/cprogramming/toc/)
 [Intro to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) or [LittleOSBook](http://ordoflammae.github.io/littleosbook)
 
