@@ -56,10 +56,10 @@ and is knowledgeable enough now to decide which electives to take.
 
 ### Introduction to Programming
 
-If you've never written a for-loop, or don't know what a string is in programming, start here.
+If you've never written a for-loop, or a string in programming, start here.
 
 Courses | Duration | Effort 
-:-- | :--: | :--: | 
+:-- | :--: | :--: |
 [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week
 
 ### Introduction to Computer Science
@@ -88,8 +88,8 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `static & dynamic types`
 `etc`
 
-Courses | Duration | Effort 
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort
+:-- | :--: | :--:
 Learn a bit of Python, but focus on learning C as it's concepts can be applied to other languages and most OS are based on it, including Windows and Linux. When you look into the inter-workings of a program, you will see either C or assembly. Newer languages are basically fancy C with new implementations. However it's good to know a bunch so you aren't stuck to one language's features or limited codebase.
 ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/) 
 [Computer Science I](https://github.com/HimoriK/computer-science/files/12163849/ComputerScienceOne.pdf)
@@ -109,8 +109,8 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `discrete probability`
 `more math`
 
-Courses | Duration | Effort | Notes | Prerequisites 
-:-- | :--: | :--: | :--: | :--: | 
+Courses | Duration | Effort | Notes | Prerequisites
+:-- | :--: | :--: | :--: | :--: |
 [Calculus I](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Calculus III](https://www.mecmath.net/VectorCalculus.pdf) | 6 weeks | 5-10 hours/week 
 [Mathematics for Computer Science](addinaCSorMathcoursehere) | 13 weeks | 5 hours/week
@@ -124,7 +124,7 @@ Practice over theory.
 `cli environments`
 `version control`
 
-Courses | Duration | Effort |
+Courses | Duration | Effort 
 :-- | :--: | :--: | 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week 
 
@@ -144,8 +144,8 @@ Courses | Duration | Effort |
 `network protocols`
 `**this it**`
 
-Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Additional Text / Assignments | Prerequisites 
+:-- | :--: | :--: | :--: | :--: |
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II 
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS 
 
@@ -169,7 +169,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 `and more`
 
 Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Cybersecurity Fundamentals](replacewithsomesecuritybook) | 8 weeks | 10-12 hours/week
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week 
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week 
@@ -177,7 +177,7 @@ Courses | Duration | Effort | Prerequisites
 Choose **one** of the following:
 
 Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: |
 [Identifying Security Vulnerabilities in C/C++Programming](security+ or net+) 
 
 ### Core applications
@@ -192,13 +192,14 @@ Courses | Duration | Effort | Prerequisites
 `ray tracing`
 
 Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: 
 [Databases: Modeling and Theory](replace)| 2 weeks | 10 hours/week | core programming 
 [Databases: Relational Databases and SQL](replace)| 2 weeks | 10 hours/week | core programming
 [Databases: Semistructured Data](replace)| 2 weeks | 10 hours/week | core programming 
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding 
 [Computer Graphics](replaceimsuretherearegoodbooksforthisontheinternetlikeOPENGLorVulkun)| 6 weeks | 12 hours/week 
 [Software Engineering: Introduction](youwillLiterallylearnthisonthejob) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses)
+
 ### Core ethics
 
 **Topics covered**:
@@ -207,7 +208,7 @@ Courses | Duration | Effort | Prerequisites
 `Privacy and Civil Liberties`
 
 Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week 
 [Introduction to Intellectual Property](literallyjustlearnaboutFOSSPoliciesandPracticeit)| 4 weeks | 2 hours/week 
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week 
@@ -285,8 +286,8 @@ Courses | Duration | Effort | Prerequisites
 
 
 ### Advanced math
-Courses | Duration | Effort | Prerequisites 
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Linear Algebra](youtubeOrBook) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra 
 [Introduction to Numerical Methods](ShouldbeEasytoFindaBook)| 14 weeks | 12 hours/week
