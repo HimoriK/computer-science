@@ -17,8 +17,9 @@
 
 # Summary
 
+
 Learn Computer Science with a clear curriculum of curated materials.
-I want to make one thing clear: There is no easy way to learn about this stuff, there are quick ways, yes. Not easy ways though.
+I want to make one thing clear: There is [no easy way](https://i.stack.imgur.com/KICI7.png) to learn about this stuff, there are [quick ways,](https://www.businessinsider.com/cfpb-states-sue-prehired-predatory-student-debt-tech-bootcamp-isa-2023-7?op=1) yes. Not [easy](https://www.irishtimes.com/news/education/concern-over-drop-out-rates-in-computer-science-courses-1.2491751) ways though. 
 The quickest way, is to not waste your time with pointless mediocre courses when you could instead pick up a free book and teach yourself.
 That's 1 big book, or 3 specialized smaller books. To prove my point, before you consider going on Coursera, search for a popular [programming language 
 here](https://www.classcentral.com) and reviews for the courses you're interested in. Reviews imply Coursera > edX, but the curriculum of online schooling is limited, and even the best universities in the world have educational issues, your best bet is to pick your favorite books and learn by practice. MIT content is also outdated. Videos are okay, but attention drifts, while practice lingers. Don't outsource your education or base on old content. Get a proper book written in your language with (preferably) your style and no fluff. Otherwise pay for a good degree program.
@@ -57,8 +58,8 @@ and is knowledgeable enough now to decide which electives to take.
 
 If you've never written a for-loop, or don't know what a string is in programming, start here.
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort 
+:-- | :--: | :--: | 
 [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week
 
 ### Introduction to Computer Science
@@ -71,8 +72,8 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `etc`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration 
+:-- | :--: | 
 [Python Programming Primer](https://github.com/HimoriK/computer-science/files/12163718/Python.Programming.Primer-4.pdf) or [The Coder's Apprentice](https://www.spronck.net/pythonbook/pythonbook.pdf)
 
 ## Core CS
@@ -108,8 +109,8 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `discrete probability`
 `more math`
 
-Courses | Duration | Effort | Notes | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Notes | Prerequisites 
+:-- | :--: | :--: | :--: | :--: | 
 [Calculus I](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Calculus III](https://www.mecmath.net/VectorCalculus.pdf) | 6 weeks | 5-10 hours/week 
 [Mathematics for Computer Science](addinaCSorMathcoursehere) | 13 weeks | 5 hours/week
@@ -123,8 +124,8 @@ Practice over theory.
 `cli environments`
 `version control`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort |
+:-- | :--: | :--: | 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week 
 
 ### Core systems
@@ -143,10 +144,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `network protocols`
 `**this it**`
 
-Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
+Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | o
 :-- | :--: | :--: | :--: | :--: | :--:
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II 
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS 
 
 ### Core theory
 
@@ -167,7 +168,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 `Cryptography`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites | o
 :-- | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](replacewithsomesecuritybook) | 8 weeks | 10-12 hours/week
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week 
@@ -175,7 +176,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Choose **one** of the following:
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites | o
 :-- | :--: | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](security+ or net+) 
 
@@ -190,7 +191,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `OpenGL`
 `ray tracing`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites | o
 :-- | :--: | :--: | :--: | :--:
 [Databases: Modeling and Theory](replace)| 2 weeks | 10 hours/week | core programming 
 [Databases: Relational Databases and SQL](replace)| 2 weeks | 10 hours/week | core programming
