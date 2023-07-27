@@ -18,7 +18,7 @@
 # Summary
 
 
-Learn Computer Science with a clear curriculum of curated materials.
+Learn Computer Science with a free curated curriculum.
 I want to make one thing clear: There is [no easy way](https://i.stack.imgur.com/KICI7.png) to learn about this stuff, there are [quick ways,](https://www.businessinsider.com/cfpb-states-sue-prehired-predatory-student-debt-tech-bootcamp-isa-2023-7?op=1) yes. Not [easy](https://www.irishtimes.com/news/education/concern-over-drop-out-rates-in-computer-science-courses-1.2491751) ways though. 
 The quickest way, is to not waste your time with pointless mediocre courses when you could instead pick up a free book and teach yourself.
 That's 1 big book, or 3 specialized smaller books. To prove my point, before you consider going on Coursera, search for a popular [programming language 
@@ -88,7 +88,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `static & dynamic types`
 `etc`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort 
 :-- | :--: | :--: | :--: | :--:
 Learn a bit of Python, but focus on learning C as it's concepts can be applied to other languages and most OS are based on it, including Windows and Linux. When you look into the inter-workings of a program, you will see either C or assembly. Newer languages are basically fancy C with new implementations. However it's good to know a bunch so you aren't stuck to one language's features or limited codebase.
 ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/) 
@@ -144,7 +144,7 @@ Courses | Duration | Effort |
 `network protocols`
 `**this it**`
 
-Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | o
+Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II 
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS 
@@ -168,7 +168,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | o
 `Cryptography`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | o
+Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](replacewithsomesecuritybook) | 8 weeks | 10-12 hours/week
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week 
@@ -176,7 +176,7 @@ Courses | Duration | Effort | Prerequisites | o
 
 Choose **one** of the following:
 
-Courses | Duration | Effort | Prerequisites | o
+Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](security+ or net+) 
 
@@ -191,7 +191,7 @@ Courses | Duration | Effort | Prerequisites | o
 `OpenGL`
 `ray tracing`
 
-Courses | Duration | Effort | Prerequisites | o
+Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Databases: Modeling and Theory](replace)| 2 weeks | 10 hours/week | core programming 
 [Databases: Relational Databases and SQL](replace)| 2 weeks | 10 hours/week | core programming
@@ -206,7 +206,7 @@ Courses | Duration | Effort | Prerequisites | o
 `Professional Ethics`
 `Privacy and Civil Liberties`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week 
 [Introduction to Intellectual Property](literallyjustlearnaboutFOSSPoliciesandPracticeit)| 4 weeks | 2 hours/week 
@@ -285,7 +285,7 @@ Courses | Duration | Effort | Prerequisites
 
 
 ### Advanced math
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites 
 :-- | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Linear Algebra](youtubeOrBook) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra 
