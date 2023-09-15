@@ -74,9 +74,9 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `etc`
 
-Books | Duration 
-:-- | :--: | 
-[Python Programming Primer](https://github.com/HimoriK/computer-science/files/12163718/Python.Programming.Primer-4.pdf) or [The Coder's Apprentice](https://www.spronck.net/pythonbook/pythonbook.pdf)
+Courses | Duration | Effort 
+:-- | :--: | :--: |
+[Python Programming Primer](https://github.com/HimoriK/computer-science/files/12163718/Python.Programming.Primer-4.pdf) or [The Coder's Apprentice](https://www.spronck.net/pythonbook/pythonbook.pdf) | 10 weeks | 10 hours/week
 
 ## Core CS
 
@@ -92,7 +92,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Books |
 :-- |
-Learn a bit of Python, but focus on learning C as it's concepts can be applied to other languages and most OS are based on it, including Windows and Linux. When you look into the inter-workings of a program, you will see either C or assembly. Newer languages are basically fancy C with new implementations. However it's good to know a bunch so you aren't stuck to one language's features or limited codebase.
+Learn a bit of Python, focus on learning C as it's concepts can be applied to other languages and most OS are based on it, including Windows and Linux. When you look into the inter-workings of a program, you will see either C or assembly. Newer languages are basically fancy C with new implementations. However it's good to know a bunch so you aren't stuck to one language's features or limited codebase.
 ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/) 
 [Computer Science I](https://github.com/HimoriK/computer-science/files/12163849/ComputerScienceOne.pdf)
 [Algorithms](findavideo,onProgramLanguageDifferences) and [Course](https://codeahoy.com/learn/analysisofalgorithms/ch1/) *[Optional](https://en.wikibooks.org/wiki/Algorithms)
@@ -111,8 +111,8 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `discrete probability`
 `more math`
 
-Courses | Duration | Effort | Notes | Prerequisites
-:-- | :--: | :--: | :--: | :--: |
+Courses | Duration | Effort | Notes 
+:-- | :--: | :--: | :--: |
 [Calculus I](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Calculus III](https://www.mecmath.net/VectorCalculus.pdf) | 6 weeks | 5-10 hours/week 
 [Discrete Math](https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf) | 10 weeks | 5 hours/week
@@ -146,10 +146,10 @@ Courses | Duration | Effort
 `network protocols`
 `**this it**`
 
-Courses | Duration | Effort | Additional Text / Assignments | Prerequisites 
-:-- | :--: | :--: | :--: | :--: |
+Courses | Duration | Effort | Additional Text / Assignments  
+:-- | :--: | :--: | :--: |
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | 
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS 
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) 
 
 ### Core theory
 
@@ -172,7 +172,7 @@ Courses | Duration | Effort | Additional Text / Assignments | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Cybersecurity Fundamentals](Applied Incident Response) or [this](https://cybersecuritybase.mooc.fi/) | 8 weeks | 10-12 hours/week 
+[Cybersecurity Fundamentals](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268) or [this](https://cybersecuritybase.mooc.fi/) | 8 weeks | 10-12 hours/week 
 [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) | 6 weeks | 7-10 hours/week 
 
 ### Core applications
@@ -199,8 +199,8 @@ Courses | Duration | Effort | Prerequisites
 `Professional Ethics`
 `Privacy and Civil Liberties`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
+Courses | Duration | Effort
+:-- | :--: | :--:
 [Ethics, Technology and Engineering](addavideoorbriefoverview)| 2 weeks | 2 hours/week 
 [Introduction to Intellectual Property](literallyjustlearnaboutFOSSPoliciesandPracticeit)| 4 weeks | 2 hours/week 
 [Data Privacy Fundamentals](anyprivacyguidewilldo)| 2 weeks | 2 hours/week 
@@ -218,8 +218,8 @@ Students should take *every* course that is relevant to the field they intend to
 `goal-oriented programming`
 `parallel computing`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
+Courses | Duration | Effort
+:-- | :--: | :--:
 [Parallel Programming](youcanlearnthisanywherefromabook)| 4 weeks | 6-8 hours/week 
 [Compilers](youllLearnthisIntheField) | 8 weeks | 6-8 hours/week | none
 [Software Debugging](learnhowtouseadebugger)| 6 weeks | 6 hours/week 
