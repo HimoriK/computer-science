@@ -18,8 +18,8 @@
 # Summary
 
 
-Learn Computer Science with a free curated curriculum. I want to make one thing clear: There is [no easy way](https://i.stack.imgur.com/KICI7.png) to learn about this stuff, there are [quick ways,](https://www.businessinsider.com/cfpb-states-sue-prehired-predatory-student-debt-tech-bootcamp-isa-2023-7?op=1) yes. Not [easy](https://www.irishtimes.com/news/education/concern-over-drop-out-rates-in-computer-science-courses-1.2491751) ways though. The quickest way, is to not waste your time with pointless mediocre courses when you could instead pick up a free book and teach yourself. That's 1 big book, or 3 specialized smaller books. To prove my point, before you consider going on Coursera, search for a popular [programming language 
-here](https://www.classcentral.com) and reviews for the courses you're interested in. Reviews imply Coursera > edX, but the curriculum of online schooling is limited, and even the best universities in the world have educational issues, your best bet is to pick your favorite books and learn by practice. MIT content is also outdated. Videos are okay, but attention drifts, while practice lingers. Don't outsource your education or base on old content. Get a proper book written in your language with (preferably) your style and no fluff. Otherwise pay for a good degree program.
+Learn Computer Science with a free curated curriculum. There is [no easy way](https://i.stack.imgur.com/KICI7.png) to learn this stuff, there are [quick ways,](https://www.businessinsider.com/cfpb-states-sue-prehired-predatory-student-debt-tech-bootcamp-isa-2023-7?op=1) yes. Not [easy](https://www.irishtimes.com/news/education/concern-over-drop-out-rates-in-computer-science-courses-1.2491751) ways though. The quickest way, is to pick up a free book and teach yourself. That's 1 big book, or 3 specialized smaller ones. To prove my point, before you consider going on Coursera, search for a popular [programming language 
+here](https://www.classcentral.com) and reviews for the courses you're interested in. Reviews imply Coursera > edX, but online curriculum is limited, as even the best universities in the world have educational issues. MIT content is also outdated. Videos are okay, but attention drifts, while practice lingers. Don't outsource your education or base it on old content. Get a proper book written in (preferably) your style and no fluff. Or pay for a good degree program.
 
 <details>
   <summary>
@@ -74,7 +74,7 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `etc`
 
-Courses | Duration 
+Books | Duration 
 :-- | :--: | 
 [Python Programming Primer](https://github.com/HimoriK/computer-science/files/12163718/Python.Programming.Primer-4.pdf) or [The Coder's Apprentice](https://www.spronck.net/pythonbook/pythonbook.pdf)
 
@@ -90,8 +90,8 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `static & dynamic types`
 `etc`
 
-Courses | Duration | Effort
-:-- | :--: | :--:
+Books |
+:-- |
 Learn a bit of Python, but focus on learning C as it's concepts can be applied to other languages and most OS are based on it, including Windows and Linux. When you look into the inter-workings of a program, you will see either C or assembly. Newer languages are basically fancy C with new implementations. However it's good to know a bunch so you aren't stuck to one language's features or limited codebase.
 ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/) 
 [Computer Science I](https://github.com/HimoriK/computer-science/files/12163849/ComputerScienceOne.pdf)
