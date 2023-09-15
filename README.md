@@ -115,7 +115,7 @@ Courses | Duration | Effort | Notes | Prerequisites
 :-- | :--: | :--: | :--: | :--: |
 [Calculus I](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Calculus III](https://www.mecmath.net/VectorCalculus.pdf) | 6 weeks | 5-10 hours/week 
-[Mathematics for Computer Science](addinaCSorMathcoursehere) | 13 weeks | 5 hours/week
+[Discrete Math](https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf) | 10 weeks | 5 hours/week
 
 
 ### CS Tools
@@ -128,7 +128,7 @@ Practice over theory.
 
 Courses | Duration | Effort 
 :-- | :--: | :--: | 
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week 
+**Optional:** [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week 
 
 ### Core systems
 
@@ -148,7 +148,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort | Additional Text / Assignments | Prerequisites 
 :-- | :--: | :--: | :--: | :--: |
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II 
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | 
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS 
 
 ### Core theory
@@ -172,15 +172,8 @@ Courses | Duration | Effort | Additional Text / Assignments | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Cybersecurity Fundamentals](replacewithsomesecuritybook) | 8 weeks | 10-12 hours/week
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week 
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week 
-
-Choose **one** of the following:
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: |
-[Identifying Security Vulnerabilities in C/C++Programming](security+ or net+) 
+[Cybersecurity Fundamentals](Applied Incident Response) or [this](https://cybersecuritybase.mooc.fi/) | 8 weeks | 10-12 hours/week 
+[The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) | 6 weeks | 7-10 hours/week 
 
 ### Core applications
 
@@ -195,12 +188,9 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: 
-[Databases: Modeling and Theory](replace)| 2 weeks | 10 hours/week | core programming 
-[Databases: Relational Databases and SQL](replace)| 2 weeks | 10 hours/week | core programming
-[Databases: Semistructured Data](replace)| 2 weeks | 10 hours/week | core programming 
+[Databases: Introduction](add)| 2 weeks | 10 hours/week | core programming 
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding 
-[Computer Graphics](replaceimsuretherearegoodbooksforthisontheinternetlikeOPENGLorVulkun)| 6 weeks | 12 hours/week 
-[Software Engineering: Introduction](youwillLiterallylearnthisonthejob) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses)
+[Computer Graphics](replacewithOPENGLorVulkun)| 6 weeks | 12 hours/week 
 
 ### Core ethics
 
@@ -211,15 +201,15 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week 
+[Ethics, Technology and Engineering](addavideoorbriefoverview)| 2 weeks | 2 hours/week 
 [Introduction to Intellectual Property](literallyjustlearnaboutFOSSPoliciesandPracticeit)| 4 weeks | 2 hours/week 
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week 
+[Data Privacy Fundamentals](anyprivacyguidewilldo)| 2 weeks | 2 hours/week 
 
 ## Advanced CS
 
 After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
 Not every course from a subcategory needs to be taken.
-But students should take *every* course that is relevant to the field they intend to go into.
+Students should take *every* course that is relevant to the field they intend to go into.
 
 ### Advanced programming
 
@@ -227,27 +217,20 @@ But students should take *every* course that is relevant to the field they inten
 `debugging theory and practice`
 `goal-oriented programming`
 `parallel computing`
-`object-oriented analysis and design`
-`UML`
-`large-scale software architecture and design`
-`and more`
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Parallel Programming](youcanlearnthisanywherefromabook)| 4 weeks | 6-8 hours/week 
-[Compilers](youllLearnthisIntheField) | 9 weeks | 6-8 hours/week | none
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week 
+[Compilers](youllLearnthisIntheField) | 8 weeks | 6-8 hours/week | none
+[Software Debugging](learnhowtouseadebugger)| 6 weeks | 6 hours/week 
 
 ### Advanced systems
 
 **Topics covered**:
 `digital signaling`
 `combinational logic`
-`CMOS technologies`
 `sequential logic`
 `finite state machines`
-`processor instruction sets`
-`caches`
 `pipelining`
 `virtualization`
 `parallel processing`
@@ -256,9 +239,9 @@ Courses | Duration | Effort | Prerequisites
 `system call interface`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Digital Circuits](architecture1) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
+Courses | Duration | Effort 
+:-- | :--: | :--:
+[Digital Circuits](architecture1) | 10 weeks | 6 hours/week
 [Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) | 10 weeks | 6 hours/week 
 
 ### Advanced theory
@@ -313,8 +296,6 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
 [Modern Robotics (Specialization)](probablyabettercoursesomewhere) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
-[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Game Design and Development with Unity 2020 (Specialization)](theresprobablyawaytodothhisinamonth) | 6 months | 5 hours/week | programming, interactive design
