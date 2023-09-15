@@ -9,8 +9,9 @@
 
 # Contents
 
-- [Summary](#summary)
 - [Curriculum](#curriculum)
+- [Core CS](#core-cs)
+- [Advanced CS](#advanced-cs)
 
 # Summary
 
