@@ -179,8 +179,7 @@ Courses | Duration | Effort | Prerequisites
 `refactoring`
 `data modeling`
 `neural networks`
-`supervised learning`
-`unsupervised learning`
+`un/supervised learning`
 `OpenGL`
 `ray tracing`
 
@@ -189,19 +188,6 @@ Courses | Duration | Effort | Prerequisites
 [Databases: Introduction](add)| 2 weeks | 10 hours/week | core programming 
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding 
 [Computer Graphics](replacewithOPENGLorVulkun)| 6 weeks | 12 hours/week 
-
-### Core ethics
-
-**Topics covered**:
-`Intellectual Property`
-`Professional Ethics`
-`Privacy and Civil Liberties`
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Ethics, Technology and Engineering](addavideoorbriefoverview)| 2 weeks | 2 hours/week 
-[Introduction to Intellectual Property](literallyjustlearnaboutFOSSPoliciesandPracticeit)| 4 weeks | 2 hours/week 
-[Data Privacy Fundamentals](anyprivacyguidewilldo)| 2 weeks | 2 hours/week 
 
 ## Advanced CS
 
@@ -242,23 +228,6 @@ Courses | Duration | Effort
 [Digital Circuits](architecture1) | 10 weeks | 6 hours/week
 [Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) | 10 weeks | 6 hours/week 
 
-### Advanced theory
-
-**Topics covered**:
-`computability`
-`automata`
-`distributed shared memory`
-`consensus algorithms`
-`state machine replication`
-`computational geometry theory`
-`propositional logic`
-`relational logic`
-`game trees`
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Game Theory](replacewithabookorarticle) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
-
 ### Advanced Information Security
 
 Courses | Duration | Effort | Prerequisites
@@ -281,14 +250,14 @@ Courses | Duration | Effort | Prerequisites
 
 This curriculum is project-focused.
 
-After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, put it to use.
-Not only does real project work look great on a resume, but this will also display your knowledge.
-You can create something entirely new, or find an existing project via websites like
+After you've gotten through all of Core CS and Advanced CS relevant to you, work on
+a real project and showcase your skills to employers.
+You can create any project, or find an existing one via websites like
 [CodeTriage](https://www.codetriage.com/)
 or
 [First Timers Only](https://www.firsttimersonly.com/).
 
-Students who would like more guidance in creating a project may choose to use a series of project oriented courses. Here is a sample of available, guided programs.
+Here is a sample of available, project-oriented programs.
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
