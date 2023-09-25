@@ -8,10 +8,10 @@ This page answers some questions that we frequently receive about the curriculum
 - [In what order should I take the courses?](#in-what-order-should-i-take-the-courses)
 
 ### How can I review the math prerequisites?
-Many OSSU students choose to review math topics that they have not studied recently.
-OSSU recommends students use Khan Academy for such a review.
+Many students choose to review math topics that they have not studied recently.
+Khan Academy is recommended for such a review.
 Below are links to topic assessments.
-After taking an assessment, you should have a clear idea what topics to study, and resources on Khan Academy to use.
+Adjust your study based on strengths in each area.
 
 - [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
 - [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
