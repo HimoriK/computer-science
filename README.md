@@ -111,7 +111,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Effort | Notes 
 :-- | :--: | :--: | :--: |
-[Calculus I](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
+[Calculus I-II](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Calculus III](https://www.mecmath.net/VectorCalculus.pdf) | 6 weeks | 5-10 hours/week 
 [Discrete Math](https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf) | 10 weeks | 5 hours/week
 
@@ -206,7 +206,6 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Parallel Programming](youcanlearnthisanywherefromabook)| 4 weeks | 6-8 hours/week 
 [Compilers](youllLearnthisIntheField) | 8 weeks | 6-8 hours/week | none
-[Software Debugging](learnhowtouseadebugger)| 6 weeks | 6 hours/week 
 
 ### Advanced systems
 
@@ -215,17 +214,14 @@ Courses | Duration | Effort
 `combinational logic`
 `sequential logic`
 `finite state machines`
-`pipelining`
 `virtualization`
 `parallel processing`
 `virtual memory`
 `synchronization primitives`
-`system call interface`
 `and more`
 
 Courses | Duration | Effort 
 :-- | :--: | :--:
-[Digital Circuits](architecture1) | 10 weeks | 6 hours/week
 [Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) | 10 weeks | 6 hours/week 
 
 ### Advanced Information Security
@@ -234,14 +230,12 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
-[Secure Software Development](PickavideoOrfindaBook) | 7 weeks | 1-2 hours/week
-
 
 ### Advanced math
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
-[Linear Algebra](youtubeOrBook) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra 
+[Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra 
 [Introduction to Numerical Methods](ShouldbeEasytoFindaBook)| 14 weeks | 12 hours/week
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) |
 [Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](youtubeOrBook)
@@ -257,7 +251,7 @@ You can create any project, or find an existing one via websites like
 or
 [First Timers Only](https://www.firsttimersonly.com/).
 
-Here is a sample of available, project-oriented programs.
+Here are example project-oriented programs.
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
