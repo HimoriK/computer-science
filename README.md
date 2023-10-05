@@ -131,18 +131,12 @@ Courses | Duration | Effort
 ### Core systems
 
 **Topics covered**:
-`procedural programming`
-`boolean algebra`
 `memory`
-`computer architecture`
 `assembly`
-`machine language`
 `virtual machines`
-`high-level languages`
 `compilers`
 `operating systems`
 `network protocols`
-`**this it**`
 
 Courses | Duration | Effort | Additional Text / Assignments  
 :-- | :--: | :--: | :--: |
@@ -153,11 +147,9 @@ Courses | Duration | Effort | Additional Text / Assignments
 
 **Topics covered**:
 `sorting and searching`
-`randomized algorithms`
 `shortest paths`
 `data structures`
 `dynamic programming`
-`NP-completeness`
 
 ### Core security
 **Topics covered**
