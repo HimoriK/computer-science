@@ -21,13 +21,15 @@ here](https://www.classcentral.com) and reviews for the courses you're intereste
 
 <details>
   <summary>
-    
-**Sequence**. The curriculum is designed as follows:
+
+#### Sequence 
+</summary> The curriculum is designed as follows:
+
 - *Intro CS*: for students to try out CS and see if it's right for them
 - *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take
 - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
-</summary>
+
 </details>
 
 # Curriculum
