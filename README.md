@@ -115,7 +115,7 @@ Courses | Duration | Effort | Notes
 :-- | :--: | :--: | :--: |
 [Calculus I-II](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Calculus III](https://www.mecmath.net/VectorCalculus.pdf) | 6 weeks | 5-10 hours/week 
-[Discrete Math](https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf) | 10 weeks | 5 hours/week
+[Discrete Math](https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf) | 10 weeks | 5 hours/week | [Part 2](https://discretemath.org/)
 
 
 ### CS Tools
@@ -140,10 +140,9 @@ Courses | Duration | Effort
 `operating systems`
 `network protocols`
 
-Courses | Duration | Effort | Additional Text / Assignments  
+Courses | Duration | Effort | Additional Text
 :-- | :--: | :--: | :--: |
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | 
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) 
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf)
 
 ### Core theory
 
@@ -179,9 +178,9 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: 
-[Databases: Introduction](add)| 2 weeks | 10 hours/week | core programming 
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding 
-[Computer Graphics](replacewithOPENGLorVulkun)| 6 weeks | 12 hours/week 
+[Databases: Introduction](http://www.databaselecture.com/)| 2 weeks | 10 hours/week | [SQL-101](https://github.com/s-shemmee/SQL-101) & [Foundations](http://webdam.inria.fr/Alice/pdfs/all.pdf)
+[Machine Learning](https://www.openmlguide.org/)| 11 weeks | 9 hours/week  
+[Computer Graphics](https://vkguide.dev/)| 6 weeks | 12 hours/week | [OpenGL](https://learnopengl.com/) #Optional [OGLdev](https://ogldev.org)
 
 ## Advanced CS
 
@@ -199,7 +198,7 @@ Students should take *every* course that is relevant to the field they intend to
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Parallel Programming](youcanlearnthisanywherefromabook)| 4 weeks | 6-8 hours/week 
-[Compilers](youllLearnthisIntheField) | 8 weeks | 6-8 hours/week | none
+[OS Dev](https://wiki.osdev.org/Introduction) | 8 weeks | 6-8 hours/week | [embedded programming option](https://embeddedartistry.com/beginners/)
 
 ### Advanced systems
 
@@ -211,7 +210,6 @@ Courses | Duration | Effort
 `virtualization`
 `parallel processing`
 `virtual memory`
-`synchronization primitives`
 `and more`
 
 Courses | Duration | Effort 
@@ -222,17 +220,16 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
+[Digital Forensics Concepts](https://amazon.com/Digital-Forensics-Incident-Response-techniques/dp/1803238674) | 3 weeks | 2-3 hours/week | Core Security
 
 ### Advanced math
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra 
-[Introduction to Numerical Methods](ShouldbeEasytoFindaBook)| 14 weeks | 12 hours/week
+[Introduction to Number Theory](https://wstein.org/ent/ent.pdf)| 14 weeks | 12 hours/week
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) |
-[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](youtubeOrBook)
+[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week |
 
 ## Final project
 
@@ -250,7 +247,7 @@ Here are example project-oriented programs.
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
-[Modern Robotics (Specialization)](probablyabettercoursesomewhere) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
+[Modern Robotics (Specialization)](probablyabettercoursesomewhere) | 26 weeks | 3 hours/week | physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Game Design and Development with Unity 2020 (Specialization)](theresprobablyawaytodothhisinamonth) | 6 months | 5 hours/week | programming, interactive design
